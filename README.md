@@ -25,7 +25,7 @@ Execute the programs and publish them.
 
 ## CODE
 ## map.html
-```
+```html
 <html>
     <head>
         <title>My City</title>
@@ -51,7 +51,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## cafe.html
-```
+```html
 <html>
     <head>
         <title>CAFE</title>
@@ -73,7 +73,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## poorvika.html
-```
+```html
 <html>
     <head>
         <title>MOBILES</title>
@@ -95,7 +95,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## mahal.html
-```
+```html
 <html>
     <head>
         <title>MAHAL</title>
@@ -117,7 +117,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## electricals.html
-```
+```html
 <html>
     <head>
         <title>ELECTRICALS</title>
@@ -139,7 +139,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## fitness.html
-```
+```html
 <html>
     <head>
         <title>FITNESS</title>
